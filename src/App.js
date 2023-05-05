@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> SHOULD BE GOOD NfvfdvOW, just one after anutha lemmefffthsink ut,,. it.
+          Edit <code>src/App.js</code> Still at it, also THIS IS NETLIFY!!!!!! :/
         </p>
         <a
           className="App-link"
